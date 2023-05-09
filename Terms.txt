@@ -1,0 +1,32 @@
+some of most important terms according to terminology of IEEE 29119-1:
+
+Test Plan: A document describing the scope, approach, resources, and schedule of intended testing activities.
+Test Design: The process of transforming general test objectives into tangible test cases and test scripts.
+Test Case: A set of input values, execution preconditions, expected results, and post-execution expectations used to verify whether a specific aspect of an application behaves correctly under certain conditions.
+Test Procedure: A sequence of steps and actions to be performed during the execution of a specific test case.
+Test Script: A computer program that automates the execution of one or more test cases.
+Test Execution: The process of running tests according to a predefined plan and collecting the results.
+Test Result: The outcome of a test or a group of tests, indicating whether a software system meets its stated requirements or not.
+Test Report: A document summarizing the testing activities, including test plans, test designs, test cases, test procedures, test execution results, and recommendations for further testing or improvement.
+Incident: Any event occurring during testing that requires investigation, such as a defect, error, issue, or anomaly.
+Defect: An imperfection or flaw in a software product that prevents it from functioning as intended or meeting its specified requirements.
+Test Environment: The hardware, software, and network configurations used to conduct testing activities.
+Test Data: The input values and expected results used to verify the correctness of a software system.
+Test Coverage: A measure of the degree to which a set of tests covers the requirements or functionality of a software system.
+Test Automation: The use of tools and scripts to automate testing activities, such as test case execution, data generation, and result analysis.
+Test Harness: A collection of software components used to automate and manage the execution of test cases and the processing of test results.
+Test Suite: A collection of test cases that can be executed together as part of a larger testing effort.
+Traceability: The ability to link requirements, design elements, and test cases to ensure that all system components are tested and validate against their intended functionality.
+Regression Testing: The process of retesting a software system after a change has been made, to ensure that existing functionality has not been affected by the change.
+Acceptance Testing: Testing performed by end-users or customers to determine whether a software system is ready for deployment.
+Non-Functional Testing: Testing performed to evaluate the performance, usability, security, and other quality attributes of a software system beyond its functional behavior.
+Testability: The degree to which a software system can be tested effectively and efficiently.
+Test Management: The planning, coordination, monitoring, and control of testing activities throughout the software development life cycle.
+Test Strategy: A high-level plan that outlines the testing approach, objectives, scope, and resources for a software system.
+Test Maturity Model: A framework for assessing an organization's testing capability and identifying areas for improvement.
+Quality Assurance: The process of evaluating and verifying that a software product meets specified quality standards and requirements.
+Verification: The process of evaluating whether a software system meets its specified requirements and design goals.
+Validation: The process of evaluating whether a software system satisfies the needs and expectations of its stakeholders.
+Black-box Testing: Testing performed without knowledge of the internal workings of a software system, focusing on its inputs and outputs.
+White-box Testing: Testing performed with knowledge of the internal workings of a software system, focusing on its structure and code execution.
+Gray-box Testing: Testing performed with partial knowledge of the internal workings of a software system, combining aspects of both black-box and white-box testing.
